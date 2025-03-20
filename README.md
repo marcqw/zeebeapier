@@ -4,7 +4,7 @@
 This project provides a gateway to simplify communication between a client application/forms/direct link... and Zeebe. It allows you to trigger process instances and publish messages with correlation using simple HTTP POST requests.
 
 
-![App Screenshot](https://i.ibb.co/Zyn04x7/Untitled.png)
+![App Screenshot](screenshot.png)
 
 
 
